@@ -1,0 +1,13 @@
+# Terraform generated files
+.terraform/
+*.tfplan
+.terraform.lock.hcl
+*.providers
+
+# Local state files
+*.tfstate
+*.tfstate.*
+
+# IDE and Windows files
+.idea/
+Thumbs.db
